@@ -1,0 +1,3 @@
+mad\backend\database\datamodel\User.class
+mad\backend\database\DbConnection.class
+mad\backend\database\datamodel\Medication.class

@@ -1,0 +1,13 @@
+mad\backend\endpoints\security\CustomAuthenticationProvider.class
+mad\backend\endpoints\controllers\PatientController.class
+mad\backend\endpoints\controllers\GlobalControllerExceptionHandler.class
+mad\backend\endpoints\exceptions\UserDoesNotExistException.class
+mad\backend\endpoints\exceptions\WrongPasswordException.class
+mad\backend\endpoints\controllers\AdministratorController.class
+mad\backend\endpoints\exceptions\WrongUserTypeException.class
+mad\backend\endpoints\datamodel\PatientFullData.class
+mad\backend\endpoints\controllers\MedicController.class
+mad\backend\endpoints\controllers\AuthenticationController.class
+mad\backend\endpoints\security\WebSecurityConfig.class
+mad\backend\endpoints\datamodel\UserWithoutCredentials.class
+mad\backend\endpoints\datamodel\MedicationAssignment.class

@@ -1,0 +1,13 @@
+C:\Users\tipa\Desktop\anu3\sem2\ip\git\IP\server\endpoints\src\main\java\mad\backend\endpoints\datamodel\PatientFullData.java
+C:\Users\tipa\Desktop\anu3\sem2\ip\git\IP\server\endpoints\src\main\java\mad\backend\endpoints\exceptions\WrongUserTypeException.java
+C:\Users\tipa\Desktop\anu3\sem2\ip\git\IP\server\endpoints\src\main\java\mad\backend\endpoints\controllers\AdministratorController.java
+C:\Users\tipa\Desktop\anu3\sem2\ip\git\IP\server\endpoints\src\main\java\mad\backend\endpoints\security\WebSecurityConfig.java
+C:\Users\tipa\Desktop\anu3\sem2\ip\git\IP\server\endpoints\src\main\java\mad\backend\endpoints\controllers\PatientController.java
+C:\Users\tipa\Desktop\anu3\sem2\ip\git\IP\server\endpoints\src\main\java\mad\backend\endpoints\datamodel\MedicationAssignment.java
+C:\Users\tipa\Desktop\anu3\sem2\ip\git\IP\server\endpoints\src\main\java\mad\backend\endpoints\controllers\MedicController.java
+C:\Users\tipa\Desktop\anu3\sem2\ip\git\IP\server\endpoints\src\main\java\mad\backend\endpoints\controllers\AuthenticationController.java
+C:\Users\tipa\Desktop\anu3\sem2\ip\git\IP\server\endpoints\src\main\java\mad\backend\endpoints\controllers\GlobalControllerExceptionHandler.java
+C:\Users\tipa\Desktop\anu3\sem2\ip\git\IP\server\endpoints\src\main\java\mad\backend\endpoints\exceptions\WrongPasswordException.java
+C:\Users\tipa\Desktop\anu3\sem2\ip\git\IP\server\endpoints\src\main\java\mad\backend\endpoints\exceptions\UserDoesNotExistException.java
+C:\Users\tipa\Desktop\anu3\sem2\ip\git\IP\server\endpoints\src\main\java\mad\backend\endpoints\datamodel\UserWithoutCredentials.java
+C:\Users\tipa\Desktop\anu3\sem2\ip\git\IP\server\endpoints\src\main\java\mad\backend\endpoints\security\CustomAuthenticationProvider.java
